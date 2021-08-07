@@ -2,8 +2,8 @@
 
 👀 Estoy interesado tanto en el back como en el front
 
-🌱 Actualmente estoy aprendiendo React
+🌱 Actualmente sigo aprendiendo NODE y AWS
 
-💞️ Estoy buscando cambiar de trabajo
+💞️ Actualmente trabajo como cloud engineer
 
 📫 Puedes escribirme a sosa.christian.agustin@gmail.com
