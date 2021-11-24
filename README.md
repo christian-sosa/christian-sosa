@@ -2,7 +2,7 @@
 
 👀 Estoy interesado tanto en el back como en el front
 
-🌱 Actualmente sigo aprendiendo NODE y AWS
+🌱 Actualmente sigo aprendiendo NODEJS y AWS
 
 💞️ Actualmente trabajo como cloud engineer en Arkhotech y como tutor en un curso de NODEJS en CoderHouse
 
